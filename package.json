@@ -1,6 +1,6 @@
 {
   "name": "binancepricebot",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BINANCE PRICE BOT & GET TOP 10 GAINER",
   "main": "index.js",
   "scripts": {
