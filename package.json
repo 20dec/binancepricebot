@@ -1,0 +1,24 @@
+{
+  "name": "binancepricebot",
+  "version": "1.0.0",
+  "description": "BINANCE PRICE BOT & GET TOP 10 GAINER",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/20dec/binancepricebot.git"
+  },
+  "keywords": [
+    "BINANCE",
+    "PRICE",
+    "BOT"
+  ],
+  "author": "20dec",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/20dec/binancepricebot/issues"
+  },
+  "homepage": "https://github.com/20dec/binancepricebot#readme"
+}
