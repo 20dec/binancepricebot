@@ -14,6 +14,9 @@ npm -v
 ## Install Dependencies
 npm install axios telegraf@3.38
 
+## Add Telegram API Key (get it from @BotFather)
+const bot = new Telegraf('_YOUR_TELEGRAM_BOT_API_KEY_');
+
 ## Run
 node index.js
 
