@@ -1,14 +1,14 @@
 # BINANCE PRICE BOT & GET TOP 10 GAINER
 
 ## Install NVM
-wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.39.0/install.sh | bash
+wget -qO- https://raw.githubusercontent.com/creationix/nvm/v0.39.0/install.sh | bash<br>
 source ~/.profile
 
 ## Turn off current session console & reopen
 ## Install node & npm
 nvm install 19
 ## Check
-node -v
+node -v<br>
 npm -v
 
 ## Install Dependencies
@@ -21,12 +21,12 @@ const bot = new Telegraf('**YOUR_TELEGRAM_BOT_API_KEY**');
 node index.js
 
 ## Command
-p symbol
-Ex:
-p btc
-p bnb
-
-Click update button to update current price
+p symbol<br>
+Example:<br>
+p btc<br>
+p bnb<br>
+<br>
+Click update button to update current price<br>
 Click Top 10 Gainers button to get list
 
 ![price](https://github.com/20dec/binancepricebot/assets/26274812/31e5da05-8a4d-4d06-b08c-f735b61995fc)
